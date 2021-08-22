@@ -15,5 +15,5 @@ The schematics are available to download in Hi-Res JPEG (300 DPI), Lo-Res JPG (7
 
 # Credits
 Special thanks is owed to the following:
-1. Colin from [This Does Not Compute](https://www.patreon.com/thisdoesnotcompute/) for loaning me the eMate Expansion module [from this video](https://youtu.be/-_PldKJzEJ8?t=99) for backward engineering.
+1. GeekyBit from [Geeky Bit](https://www.youtube.com/channel/UCX5TMUjcprsGAdRd8KAD0ow) for loaning me a 512kb VRAM module for backward engineering.
 2. The [Open Retro SCSI Discord Server](https://discord.gg/5AtypUqFCT) for fostering community development on retro hardware.
