@@ -3,7 +3,7 @@
 !["820-0605-A" render on a black PCB](https://github.com/Stephen-Arsenault/68Pin-VRAM/blob/main/Images/module.png?raw=true)
 
 # Apple 512kb 68Pin VRAM (PN 820-0605-A)
-An open source VRAM module based on the Apple 820-0605-A.
+An open source VRAM module based on the Apple 820-0605-A (Open Hardware)[https://oshwlab.com/stephenarsenault/68-pin-vram].
 
 # License
 This work is licensed under a
