@@ -20,8 +20,8 @@ The schematics are available to download in Hi-Res JPEG (300 DPI), Lo-Res JPG (7
 
 # Compatibility
 The following images illustrate compatibility and color support.
- 1. [Color range support requirements]().
- 2. [Requirements per supported machine]().
+ 1. [Color range support requirements](https://github.com/Stephen-Arsenault/68Pin-VRAM/blob/main/Images/vram-color-range.jpg?raw=true).
+ 2. [Requirements per supported machine](https://github.com/Stephen-Arsenault/68Pin-VRAM/blob/main/Images/vram-machine-specs.jpg?raw=true).
 
 # Credits
 Special thanks is owed to the following:
