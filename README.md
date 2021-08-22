@@ -3,7 +3,7 @@
 !["820-0605-A" render on a black PCB](https://github.com/Stephen-Arsenault/68Pin-VRAM/blob/main/Images/module.png?raw=true)
 
 # Apple 512kb 68Pin VRAM (PN 820-0605-A)
-An open source expansion module for the eMate 300.
+An open source VRAM module based on the Apple 820-0605-A.
 
 # License
 This work is licensed under a
@@ -11,7 +11,7 @@ This work is licensed under a
 
 # Schematics
 The schematics are available to download in Hi-Res JPEG (300 DPI), Lo-Res JPG (72 DPI), and PDF Vector format.
-[![Lo-Res Schematic JPEG](https://github.com/Stephen-Arsenault/68Pin-VRAM/blob/main/Schematics/LORES__Schematic_68-Pin%20VRAM.jpg?raw=true)](https://github.com/Stephen-Arsenault/eMate-Open-Expansion/blob/main/Schematics/Schematic_eMate%20Expansion.pdf)
+[![Lo-Res Schematic JPEG](https://raw.githubusercontent.com/Stephen-Arsenault/68Pin-VRAM/main/Schematics/HIRES__Schematic_68-Pin%20VRAM.jpg?token=AEHTJRXH7XNATV6DTQQLKDTBCSJ5K)](https://github.com/Stephen-Arsenault/eMate-Open-Expansion/blob/main/Schematics/Schematic_eMate%20Expansion.pdf)
 
 # Credits
 Special thanks is owed to the following:
