@@ -1,5 +1,7 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+!["820-0605-A" render on a black PCB](/images/module.png)
+
 # eMate-Open-Expansion
 An open source expansion module for the eMate 300.
 
@@ -9,7 +11,7 @@ This work is licensed under a
 
 # Schematics
 The schematics are available to download in Hi-Res JPEG (300 DPI), Lo-Res JPG (72 DPI), and PDF Vector format.
-[![Lo-Res Schematic JPEG](https://raw.githubusercontent.com/Stephen-Arsenault/eMate-Open-Expansion/main/Schematics/lores__Schematic_eMate%20Expansion.jpg?token=AEHTJRXH7XNATV6DTQQLKDTBCSJ5K)](https://github.com/Stephen-Arsenault/eMate-Open-Expansion/blob/main/Schematics/Schematic_eMate%20Expansion.pdf)
+[![Lo-Res Schematic JPEG](https://github.com/Stephen-Arsenault/68Pin-VRAM/blob/main/Schematics/LORES__Schematic_68-Pin%20VRAM.jpg?raw=true)](https://github.com/Stephen-Arsenault/eMate-Open-Expansion/blob/main/Schematics/Schematic_eMate%20Expansion.pdf)
 
 # Credits
 Special thanks is owed to the following:
