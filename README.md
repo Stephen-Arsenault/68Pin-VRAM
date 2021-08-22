@@ -1,6 +1,6 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-!["820-0605-A" render on a black PCB](/images/module.png)
+!["820-0605-A" render on a black PCB](https://github.com/Stephen-Arsenault/68Pin-VRAM/blob/main/Images/module.png?raw=true)
 
 # eMate-Open-Expansion
 An open source expansion module for the eMate 300.
