@@ -18,6 +18,11 @@ The schematics are available to download in Hi-Res JPEG (300 DPI), Lo-Res JPG (7
  * 4x M5M442256AJ-10 VRAM Modules
  * 5x 0805 SMD 100nF Ceramic Capacitor ([Digi-Key](https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B104KBFXPJE/11487741))
 
+# Compatibility
+The following images illustrate compatibility and color support.
+ 1. [Color range support requirements]().
+ 2. [Requirements per supported machine]().
+
 # Credits
 Special thanks is owed to the following:
 1. GeekyBit from [Geeky Bit](https://www.youtube.com/channel/UCX5TMUjcprsGAdRd8KAD0ow) for loaning me a 512kb VRAM module for backward engineering.
