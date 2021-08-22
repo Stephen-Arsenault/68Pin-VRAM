@@ -13,6 +13,11 @@ This work is licensed under a
 The schematics are available to download in Hi-Res JPEG (300 DPI), Lo-Res JPG (72 DPI), and PDF Vector format.
 [![Lo-Res Schematic JPEG](https://github.com/Stephen-Arsenault/68Pin-VRAM/blob/main/Schematics/LORES__Schematic_68-Pin%20VRAM.jpg?raw=true)](https://github.com/Stephen-Arsenault/68Pin-VRAM/blob/main/Schematics/Schematic_68-Pin%20VRAM.pdf)
 
+# Bill of Materials
+ * 1x 820-0605-A PCB
+ * 4x M5M442256AJ-10 VRAM Modules
+ * 5x 0805 SMD 100nF Ceramic Capacitor ([Digi-Key](https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B104KBFXPJE/11487741))
+
 # Credits
 Special thanks is owed to the following:
 1. GeekyBit from [Geeky Bit](https://www.youtube.com/channel/UCX5TMUjcprsGAdRd8KAD0ow) for loaning me a 512kb VRAM module for backward engineering.
