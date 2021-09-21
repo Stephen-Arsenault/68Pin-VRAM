@@ -1,6 +1,6 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-!["820-0605-A" render on a black PCB](https://github.com/Stephen-Arsenault/68Pin-VRAM/blob/main/Images/module.png?raw=true)
+!["820-0605-A" Photo](https://github.com/Stephen-Arsenault/68Pin-VRAM/blob/main/Images/banner.png?raw=true)
 
 # Apple 512kb 68Pin VRAM (PN 820-0605-A)
 An open source VRAM module based on the Apple 820-0605-A ([Open Hardware](https://oshwlab.com/stephenarsenault/68-pin-vram)). The PCB is 1.2mm thick, larger sizes may not work.
